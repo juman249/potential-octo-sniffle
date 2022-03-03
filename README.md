@@ -1,1 +1,3 @@
 # potential-octo-sniffle
+I have created a sign in and sign up form using HTML and CSS. This form can be used from Sign in and Sign up. A Sign In form is used to enter authentication credentials to access a secured page or form. The Sign In form holds a field for the username and another for the password.
+In this Form(Sign In and Sign Up Form in HTML), on the webpage, there is a sign in form and two toggle buttons at the top of the form labeled as Signin and Signup. When you click on the signup button, the signin form smoothly slides from the right to the left side and shows you the signup form.
